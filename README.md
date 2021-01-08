@@ -1,16 +1,13 @@
-# aog
+# Álcool ou Gasolina :oncoming_automobile:
 
-A new Flutter project.
+Esse foi o curso 7192, apresentado pelo grande Balta.io.</br> 
+Onde foi desenvolvido uma solução na linguagem Flutter que nos retorna o que compensa mais abastecer Álcool ou Gasolina.</br>
+Um projeto muito bem estruturado, que foi apresentado diversos widgets. Com utilização de componentes externos (mascara de dinheiro), animações.</br>
 
-## Getting Started
+## :computer: Recursos Utilizados no Desenvolvimento:
 
-This project is a starting point for a Flutter application.
+Para executar a solução, se faz necessário instalar os seguintes programas:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/download)
+* Flutter - [DOWNLOAD AQUI](https://flutter.dev/docs/get-started/install/windows)
+* Emulador - Device, Emulador do Android Studio ou de sua preferência.
